@@ -1,0 +1,18 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore logs
+npm-debug.log
+yarn-error.log
+
+# Ignore build artifacts
+.expo/
+.expo-shared/
+dist/
+build/
+ios/
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.log
